@@ -57,8 +57,8 @@ The E-Learning website provides a platform for students to access various course
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/Paarth-Chandan/ELearningBackend.git
-    cd ELearningBackend
+    git clone https://github.com/GulnaazParveen/EaztBytes.git
+    cd EaztBytes
     ```
 
 2. Set up MySQL database:
@@ -93,18 +93,3 @@ The application should now be running with the frontend accessible at `http://lo
 3. Watch video tutorials and track your progress.
 4. Participate in discussions by adding comments.
 
-## Contributing
-
-Contributions are welcome! Please follow these steps to contribute:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes and commit them (`git commit -m 'Add new feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Create a new Pull Request.
-
-## Contact
-
-- **Paarth Chandan** - [GitHub](https://github.com/Paarth-Chandan)
-
-Feel free to reach out if you have any questions or suggestions!
